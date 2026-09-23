@@ -1,1 +1,1 @@
-print("Hello, World! Our group members are: Rodrigo, name2, name3, name4")
+print("Hello, World! Our group members are: Rodrigo, Simon, name3, name4")
